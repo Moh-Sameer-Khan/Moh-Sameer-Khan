@@ -1,4 +1,4 @@
-![logo](../Images/BannerCover.png)
+![logo](./Images/BannerCover.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moh-sameer-khan&label=Profile%20views&color=0e75b6&style=flat" alt="moh-sameer-khan" /> </p>
 
@@ -54,7 +54,7 @@ I'm a dedicated and enthusiastic Java developer with a strong foundation in data
 
 
   <div align="center">
-<img height="175" alt="My Tech Stacks" src="../images/IMGtechstacks.png" />
+<img height="175" alt="My Tech Stacks" src="./images/IMGtechstacks.png" />
 </div>
 
 ## Experience 🚀
