@@ -8,6 +8,7 @@
 
 I'm a dedicated and enthusiastic Java developer with a strong foundation in data structures and algorithms. Holding a B.Tech degree in Computer Science from Chaudhary Charan Singh University, I'm on a journey to enhance my skills in full-stack web development through training at Geekster. Proficient in Java, Spring Boot, and MySQL, I'm always excited to adopt new technologies and stay updated with the latest trends in software development.
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 📝I’m currently Learning **Spring Boot**
 
@@ -26,7 +27,7 @@ I'm a dedicated and enthusiastic Java developer with a strong foundation in data
 - 🎯 Goal **Make a Software Developer**
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <!-- <p><em>Backend Developer<a href=>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 <!-- </em></p> -->
