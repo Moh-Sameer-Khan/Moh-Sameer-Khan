@@ -92,6 +92,8 @@ An application built with Spring Boot for efficient management of patient-doctor
 [Doctor Appointment API Code Link ](https://github.com/Moh-Sameer-Khan/SpringBootProject/tree/master/DoctorApp)
 
 
+## Analytics: 🔑
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moh-sameer-khan&show_icons=true&locale=en&layout=compact" alt="moh-sameer-khan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moh-sameer-khan&show_icons=true&locale=en" alt="moh-sameer-khan" /></p>
